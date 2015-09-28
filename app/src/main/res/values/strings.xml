@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BSC</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_settings">Edit</string>
+    <string name="add_settings">Add</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_add">New Objective</string>
+    <string name="objective">Objective</string>
+    <string name="target">Target</string>
+    <string name="performance">Performance</string>
+    <string name="category">Category</string>
+    <string name="measure">Measure</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ok">Ok</string>
+    <string name="about">About</string>
+
+    <array name="list_dialog">
+        <item>Edit</item>
+        <item>Delete</item>
+    </array>
+
+    <string-array name="categories">
+        <item>Financial</item>
+        <item>Customer</item>
+        <item>Operational</item>
+        <item>People</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
